@@ -33,10 +33,20 @@ This section introduces the Cozy Cup Cafe and its story.
 This section provides the contact information of the cafe.
 
 ## About the Authors
-<img src="https://github.com/ShituzieKai.png" width="150" style="border-radius: 50%;">
 
-**Name:** Kaiser Mamansag  
-**Email:** mamansagkaiser@gmail.com
-
-<a href="https://www.facebook.com/kaiser.mamansag.2024"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Facebook.png" width="30" alt="Facebook"></a>
-<a href="https://github.com/ShituzieKai"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Github.png" width="30" alt="GitHub"></a>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/ShituzieKai.png" width="150"><br>
+      <b>Kaiser Mamansag</b><br>
+      <a href="mailto:mamansagkaiser@gmail.com">mamansagkaiser@gmail.com</a><br>
+      <a href="https://github.com/ShituzieKai">GitHub</a>
+    </td>
+    <td align="center">
+      <img src="https://github.com/Renz-202480288.png" width="150"><br>
+      <b>Renz Bacongallo</b><br>
+      <a href="mailto:renzbacongallo31@gmail.com">renzbacongallo31@gmail.com</a><br>
+      <a href="https://github.com/Renz-202480288">GitHub</a>
+    </td>
+  </tr>
+</table>
